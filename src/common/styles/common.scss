@@ -1,9 +1,3 @@
-.dayCaption{
-  text-align: center;
-  font-weight: bold;
-  font-size: 1.5rem;
-  padding: 40px 0 20px 0;
-}
 
 .calendarRow{
   display: flex;
@@ -12,9 +6,6 @@
   margin: 15px 0;
 }
 
-.calendarRow + .calendarRow{
-  margin-top: 10px;
-}
 
 .calendarDay{
   color: rgb(40, 181, 216);
